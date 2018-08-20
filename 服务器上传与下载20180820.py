@@ -5,7 +5,7 @@ import os
 
 '''
 #服务器信息，主机名（IP地址）、端口号、用户名及密码、获取的远程与本地文件
-host_ip = '192.168.177.129'
+host_ip = '192.168.1.1'
 port = 22
 username = 'username'
 password = 'password'
